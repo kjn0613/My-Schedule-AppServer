@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.sparta.mycalendarappserver.MyCalendarAppServerApplicationTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-05-17T16:37:07" hostname="Userui-MacBookAir.local" time="2.791">
+  <properties/>
+  <testcase name="contextLoads()" classname="com.sparta.mycalendarappserver.MyCalendarAppServerApplicationTests" time="2.791"/>
+  <system-out><![CDATA[01:37:04.136 [Test worker] INFO org.springframework.test.context.support.AnnotationConfigContextLoaderUtils -- Could not detect default configuration classes for test class [com.sparta.mycalendarappserver.MyCalendarAppServerApplicationTests]: MyCalendarAppServerApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+01:37:04.385 [Test worker] INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper -- Found @SpringBootConfiguration com.sparta.mycalendarappserver.MyCalendarAppServerApplication for test class com.sparta.mycalendarappserver.MyCalendarAppServerApplicationTests
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+ :: Spring Boot ::               (v3.1.11)
+
+2024-05-18T01:37:05.158+09:00  INFO 10300 --- [    Test worker] .s.m.MyCalendarAppServerApplicationTests : Starting MyCalendarAppServerApplicationTests using Java 17.0.11 with PID 10300 (started by user in /Users/user/Library/Mobile Documents/com~apple~CloudDocs/Cording/Project/my-Calendar-AppServer)
+2024-05-18T01:37:05.165+09:00  INFO 10300 --- [    Test worker] .s.m.MyCalendarAppServerApplicationTests : No active profile set, falling back to 1 default profile: "default"
+2024-05-18T01:37:07.087+09:00  INFO 10300 --- [    Test worker] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2024-05-18T01:37:07.386+09:00  INFO 10300 --- [    Test worker] .s.m.MyCalendarAppServerApplicationTests : Started MyCalendarAppServerApplicationTests in 2.715 seconds (process running for 5.178)
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
